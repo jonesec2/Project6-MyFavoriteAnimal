@@ -1,3 +1,17 @@
 body {
     background-color: turquoise;
 }
+
+.p1 {
+    font-size: xx-small;
+}
+.center-block {
+    text-align: center;
+    margin: 5px;
+}
+
+.jumbotron {
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
